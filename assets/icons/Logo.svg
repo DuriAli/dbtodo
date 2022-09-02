@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72.036" height="72" viewBox="0 0 72.036 72">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #001d2a;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        stroke: #b65a51;
+        stroke-linecap: round;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Logo" transform="translate(-24.369 -151.43)">
+    <g id="Circle" class="cls-1" transform="translate(24.369 151.43)">
+      <circle class="cls-3" cx="36" cy="36" r="36"/>
+      <circle class="cls-4" cx="36" cy="36" r="33.5"/>
+    </g>
+    <g id="Tick" transform="translate(38.869 176.158)">
+      <line id="Line_4" data-name="Line 4" class="cls-2" x2="10.483" y2="10.483" transform="translate(0 18.107)"/>
+      <line id="Line_5" data-name="Line 5" class="cls-2" y1="43.819" x2="43.517" transform="translate(10.483 -15.228)"/>
+    </g>
+  </g>
+</svg>
